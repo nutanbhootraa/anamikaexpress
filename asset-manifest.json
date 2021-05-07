@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AnamikaExpress/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/AnamikaExpress/static/js/main.5292db0a.chunk.js",
+    "main.js.map": "/AnamikaExpress/static/js/main.5292db0a.chunk.js.map",
+    "runtime-main.js": "/AnamikaExpress/static/js/runtime-main.197c88a9.js",
+    "runtime-main.js.map": "/AnamikaExpress/static/js/runtime-main.197c88a9.js.map",
+    "static/js/2.5d4fc227.chunk.js": "/AnamikaExpress/static/js/2.5d4fc227.chunk.js",
+    "static/js/2.5d4fc227.chunk.js.map": "/AnamikaExpress/static/js/2.5d4fc227.chunk.js.map",
+    "static/js/3.b685494b.chunk.js": "/AnamikaExpress/static/js/3.b685494b.chunk.js",
+    "static/js/3.b685494b.chunk.js.map": "/AnamikaExpress/static/js/3.b685494b.chunk.js.map",
+    "index.html": "/AnamikaExpress/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/AnamikaExpress/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.5d4fc227.chunk.js.LICENSE.txt": "/AnamikaExpress/static/js/2.5d4fc227.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.197c88a9.js",
+    "static/js/2.5d4fc227.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.5292db0a.chunk.js"
+  ]
+}
