@@ -3,7 +3,7 @@ import { HashRouter, Route, Link } from "react-router-dom";
 
 function App() {
   return (
-      <HashRouter basename='/'>
+      <HashRouter basename='./'>
           <div>
               <p>There we are</p>
           </div>
