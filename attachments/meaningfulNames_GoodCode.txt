@@ -1,0 +1,16 @@
+class EvenNumbers {
+    public static void main() {
+        private static final int TILL_NUMBER = 10;
+        List<Integer> evenNumberList = new ArrayList<>();
+
+        for (int number = 0;number<TILL_NUMBER;number++) {
+            if (number%2==0) {
+               evenNumberList.add(number);
+            }
+        }
+
+        for (int evenNumber : evenNumberList) {
+            System.out.print(evenNumber);
+        }
+    }
+}

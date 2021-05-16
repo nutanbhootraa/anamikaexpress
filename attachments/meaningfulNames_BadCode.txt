@@ -1,0 +1,23 @@
+class A {
+    public static void main() {
+        int i = 0;
+        int a1[] = new int[10];
+        List<Integer> bl = new ArrayList<>();
+        for (int j = 0;j<10;j++) {
+            a[j] = j+1;
+        }
+        for (int j = 0;j<10;j++) {
+            if (a[j]%2==0) {
+               insert(bl, a[j]);
+            }
+        }
+
+        for (int b : bl) {
+            System.out.print(b);
+        }
+    }
+
+    private static void insert(List<Integer> bl, int al) {
+        bl.add(al);
+    }
+}
